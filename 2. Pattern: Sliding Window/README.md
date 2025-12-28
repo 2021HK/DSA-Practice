@@ -8,3 +8,10 @@
 5 . Atmost k / At least K 
 6 . Exactly K  
 
+
+# step by step Solve 
+1. Pattern
+2. Identify Pattern
+3. fixed windwo / variable
+4. Data / info
+5. new window 
